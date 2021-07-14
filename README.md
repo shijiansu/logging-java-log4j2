@@ -12,7 +12,8 @@
 
 ## Outline
 
-- 
+- log4j2-spring-boot-by-xishuai - examples of log4j2 log configuration together with springboot as default logger
+- log4j2-mdc-ndc-by-baeldung - examples of log4j2 for mdc and ndc with completed configuration
 
 ## Execute all tests in repo
 
